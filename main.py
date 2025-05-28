@@ -6,6 +6,9 @@ def addTask():
     tasks.append(task)
     print("f.Task '{task}' added to the list.")
 
+def deleteTask():
+    task = 
+
 
 if __name__ == "--main__":
     
